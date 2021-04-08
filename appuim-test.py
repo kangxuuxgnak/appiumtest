@@ -10,6 +10,7 @@ def until(x):
     WebDriverWait(driver, 10).until(lambda driver: driver.find_element_by_id(x)).click()
     # driver.find_element_by_id(x).click()
 
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 desired_caps = {}
 desired_caps['deviceName'] = 'APH7N19605032484'
