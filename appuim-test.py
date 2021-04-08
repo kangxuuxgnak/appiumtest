@@ -13,7 +13,7 @@ def until(x):
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 desired_caps = {}
-desired_caps['deviceName'] = 'APH7N19605032484'
+desired_caps['deviceName'] = 'xxxxxxxxx'
 desired_caps['platformName'] = 'Android'
 desired_caps['version'] = '10'
 desired_caps['appPackage'] = 'com.microsoft.bing'
